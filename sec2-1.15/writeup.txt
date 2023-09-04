@@ -1,0 +1,27 @@
+                                                             PROJECT-4
+
+
+Introduction
+---------------
+Create a school Database
+
+
+
+Creating a GitHub Repository
+------------------------------
+Create a new GitHub repository with an appropriate name pract.
+Initialize a Git repository in the local project folder using the following command in the terminal or Git Bash:
+git init
+git add .
+git commit -m 'firstcommit'
+ git remote add origin 
+
+git push -u origin master
+
+Conclusion
+-----------
+ The source code was tracked in a GitHub repository
+
+
+
+github link:https://github.com/9701784660/Ph-3-Practice-Project1.git
